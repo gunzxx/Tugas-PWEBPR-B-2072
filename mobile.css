@@ -40,6 +40,10 @@
     width: max-content;
   }
   .left-panel-3.top .detail-container {
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
     position: absolute;
     bottom: 0;
     gap: 0;
